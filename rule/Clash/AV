@@ -1,0 +1,16 @@
+# NAME: AV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/tbslantian/ios_rule_script
+# UPDATED: 2025-06-14 22:17:30
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN-SUFFIX,kawaiikawaii.jp
+DOMAIN-SUFFIX,javrate.com
+DOMAIN-SUFFIX,moodyz.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,avfan.mixh.jp
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,javland.com
+DOMAIN-SUFFIX,sukebei.nyaa.si
